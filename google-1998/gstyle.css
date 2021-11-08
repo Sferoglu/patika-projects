@@ -1,0 +1,48 @@
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 37%;
+}
+
+
+p {text-align: center;}
+ 
+
+.nmb {margin-bottom: 0px;}
+.nmt {margin-top: 0px;}
+
+/* a {text-decoration: underline;} */
+
+
+.button{
+    display: flex;
+    justify-content: center;
+}
+
+
+ 
+#leftbox {
+        float:left; 
+        background:#62B3AA;
+        width:28%;
+        height:100px;
+        margin-left: 12%;
+}
+
+#middlebox{
+        float:left; 
+        background:#62B3AA;
+        width:20%;
+        margin-left: 2px;
+        height:100px;
+}
+
+#rightbox{
+        float:right;
+        background:#62B3AA;
+        width:28%;
+        margin-right: 11.7%;
+        height:100px;
+}
